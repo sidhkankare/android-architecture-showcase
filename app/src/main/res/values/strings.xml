@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Architecture Showcase</string>
+    <string name="app_title">Android Architecture Patterns</string>
+    <string name="app_subtitle">Explore different architecture patterns in Android</string>
+</resources>
